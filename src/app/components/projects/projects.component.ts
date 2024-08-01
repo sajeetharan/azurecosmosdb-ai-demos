@@ -23,7 +23,7 @@ export class ProjectsComponent {
       "comments": "5",
       "description": "Built for Techamica, a startup software company. Emphasized simplicity and user-friendliness to reflect their commitment to accessible solutions.",
       "gitLink": "https://github.com/AzureCosmosDB/cosmosdb-mongo-copilot",
-      "browserLink": "https://www.techamica.com"
+      "browserLink": "https://github.com/AzureCosmosDB/cosmosdb-mongo-copilot"
     },
     {
       "imageUrl": "assets/images/solution-accelerator.png",
